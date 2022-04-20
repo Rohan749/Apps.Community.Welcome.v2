@@ -1,0 +1,16 @@
+{
+    "id": "fa28a8b6-c6bc-4c24-aa4d-c7106fde7ee6",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.19.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Rohan Kumar Pandey",
+        "homepage": "https://github.com/Rohan749",
+        "support": "n/a"
+    },
+    "name": "community apps welcome",
+    "nameSlug": "community-apps-welcome",
+    "classFile": "CommunityAppsWelcomeApp.ts",
+    "description": "This is 2nd version of Community.Apps.Welcome with additional features that will help new comers to get familiar with rocket chat environment.",
+    "implements": []
+}
