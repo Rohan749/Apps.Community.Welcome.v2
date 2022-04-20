@@ -1,5 +1,5 @@
-# community apps welcome
-an app that will help new contributors to get familiar with rocket chat environment.
+# Apps.Community.Welcome.v2
+This app will help new contributors to get familiar with rocket chat environment. Also, it can be used to refer frequently visited links fast.
 
 ## Getting Started
 Now that you have generated a blank default Rocket.Chat App, what are you supposed to do next?
